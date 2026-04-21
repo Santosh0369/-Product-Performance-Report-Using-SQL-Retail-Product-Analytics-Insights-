@@ -90,7 +90,7 @@ This project demonstrates:
 
 * Focus on promoting high-performing products
 * Optimize pricing strategies for mid-performing products
-* Review or discontinue consistently underperforming products
+* Review or discontinue underperforming products consistently
 * Improve inventory planning based on product demand
 
 ---
