@@ -113,8 +113,6 @@ This project demonstrates how SQL can be used to create a **product performance 
 
 ---
 
-# This SQL script builds a **Product Performance Report** — meaning it transforms raw sales data into **product-level insights (sales, revenue, contribution, etc.)**.
-===============================================================================
 ## Product Report
 ===============================================================================
 # Purpose:
@@ -240,7 +238,7 @@ ORDER BY total_sales DESC
 
 ---
 
-### 💡 Why important:
+### 💡 Why is it important:
 
 * Helps business focus on:
 
