@@ -114,7 +114,6 @@ This project demonstrates how SQL can be used to create a **product performance 
 ---
 
 ## Product Report
-===============================================================================
 # Purpose:
     - This report consolidates key product metrics and behaviours.
 
