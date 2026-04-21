@@ -153,9 +153,8 @@ This project demonstrates how SQL can be used to create a **product performance 
 
 ### 🔹 Core Logic:
 
-```sql
-fact_sales + dim_products
-```
+<img width="897" height="660" alt="image" src="https://github.com/user-attachments/assets/1a16682f-e072-43f7-affe-bdf806ead392" />
+
 
 👉 Why join?
 
