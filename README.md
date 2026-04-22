@@ -24,9 +24,6 @@ Without a structured reporting system, businesses struggle to optimize their pro
 This project addresses these challenges through a SQL-driven product analysis report.
 
 ---
-Here’s a polished **GitHub README.md** for your **Product Report SQL View** project 👇
-
----
 
 # 📦 Product Performance Analytics (SQL)
 
