@@ -211,6 +211,7 @@ SELECT
 
 FROM product_aggregations;
 ```
+<img width="1007" height="640" alt="image" src="https://github.com/user-attachments/assets/913e1800-b942-430a-8700-0aeec79b81ff" />
 
 ---
 
